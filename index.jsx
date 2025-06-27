@@ -11,7 +11,7 @@ const WAREHOUSES = [
   "Praha - HP",
   "Chrášťany",
   "Brno",
-  "Zetor",
+  "Ostrava",
   "Berlín - DE",
   "Mnichov - DE",
   "Frankfurt - DE",
